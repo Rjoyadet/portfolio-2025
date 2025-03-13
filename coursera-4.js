@@ -2,7 +2,7 @@ function myFunction() {
     alert("You made a wise choice!");
 }
 
-const cardContainer = document.getElementByID('card-container');
+/*const cardContainer = document.getElementByID('card-container');
 
     function createCard(title, content) {
     const card = document.createElement('div');
@@ -26,3 +26,4 @@ const card2 = createcard('other programs', 'linux and git')
 
 cardContainer.appendChild(card1);
 cardContainer.appendChild(card2);
+*/

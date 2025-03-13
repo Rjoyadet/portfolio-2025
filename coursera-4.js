@@ -4,7 +4,7 @@ function myFunction() {
 
 const cardContainer = document.getElementByID('card-container');
 
-function createCard(title, content) {
+    function createCard(title, content) {
     const card = document.createElement('div');
     card.classList.add('card');
 

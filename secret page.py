@@ -7,4 +7,4 @@ print ('How are you today?')
 if feeling == 'good' or 'fine':
     print("I am glad to hear that!")
 else:
-    print("I am sorry to hear that")
+    print("Oh, I am sorry to hear that")

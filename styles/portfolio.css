@@ -1,0 +1,60 @@
+body {
+margin: 0;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.flex-container {
+    background-color: purple;
+    text-align: left;
+    text-transform: white;
+    
+}
+
+.flex-container1 {
+    display:flex;
+    background-color: rgb(226, 151, 97);
+    justify-content: space-between;
+    margin: 10px;
+    padding: 20px;
+
+}
+.flex-container2 {
+    display: flex;
+    background-color: rgb(150, 231, 204);
+    justify-content: space-evenly;
+
+}
+
+.flex-container3 {
+    display: flex;
+    background-color: rgb(195, 193, 193);
+    justify-content:space-between;
+}
+
+.resize {
+    width: 40px;
+    height: 40px;
+}
+
+
+button {
+    font-family: "Times New Roman", Times, serif;
+}
+
+button:hover {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+c:hover {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    color:antiquewhite;
+}
+
+.card {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
